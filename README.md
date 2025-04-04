@@ -1,9 +1,18 @@
 # Para criar um ambiente virtual :
-1. cd pastaDoProjeto
-2. python -m venv venv
+1. Abrir um terminal
+2. Execute o comando : cd pastaDoProjeto
+3. Execute o comando : python -m venv venv
 
-# Para rodar o ambiente virtual : 
-1. /venv/Script/activate
+# Para rodar/ativar o ambiente virtual : 
+1. Abrir um terminal
+2. Execute o comando : cd pastaDoProjeto
+3. Execute o comando : /venv/Script/activate
+
+# Para rodar/ativar o front :
+1. Abrir um terminal
+2. Execute o comando : cd pastaDoProjeto
+3. Ative o ambiente virtual
+4. Execute o comando : python -m http.server -d dist
 
 # Casos de erro :
 
