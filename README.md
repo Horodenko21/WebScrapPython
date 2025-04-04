@@ -8,4 +8,5 @@
 # Casos de erro :
 
 1. Activate.ps1 cannot be loaded because running scripts is disabled on this system.
+
 Solução : Executar este comando em um terminal (como administrador) -  "Set-ExecutionPolicy RemoteSigned"
