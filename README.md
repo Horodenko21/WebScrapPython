@@ -2,6 +2,10 @@
 1. Abrir um terminal
 2. Execute o comando : cd pastaDoProjeto
 3. Execute o comando : python -m venv venv
+   
+# Com ambiente virtual criado deve-se instalar nele :
+
+1. selenium : "pip install webdriver-manager"
 
 # Para rodar/ativar o ambiente virtual : 
 1. Abrir um terminal
