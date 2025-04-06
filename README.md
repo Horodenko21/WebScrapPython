@@ -19,3 +19,7 @@
 1. Activate.ps1 cannot be loaded because running scripts is disabled on this system.
 
 Solução : Executar este comando em um terminal (como administrador) -  "Set-ExecutionPolicy RemoteSigned"
+
+2. Talvez ao rodar/ativar o front de o erro 404
+
+Solução : Dentro da pasta do projeto e com ambiente virtual ativado executar comando com caminho do front : python -m http.server -d .\curso-web-scraping\dist\
