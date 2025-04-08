@@ -5,7 +5,8 @@
    
 # Com ambiente virtual criado deve-se instalar nele :
 
-1. selenium : "pip install webdriver-manager"
+1. selenium - "pip install selenium"
+2. webdriver - "pip install webdriver-manager"
 
 # Para rodar/ativar o ambiente virtual : 
 1. Abrir um terminal
